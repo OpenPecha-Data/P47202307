@@ -1,0 +1,22 @@
+id: P47202307
+initial_creation_type: input
+source_metadata:
+  title: Benedictory Verses
+  language: en
+  description: 'A series of benedictory verses for colophons (par/spar byang smon
+    tshig):'
+  volume:
+    eebddb18e8624a38899b65c887e161c8:
+      title: 'Benedictory Verses for The Clarifying Light: A Prophecy of the Future'
+      parent: Clarifying Light Prophecy
+    486fece851d2410da6542adb4076e989:
+      title: Benedictory Verses for A Brilliant Elucidation of Logical Reasoning
+      parent: Pramāṇa
+    3301e5a228c94928bfee0b77dba02107:
+      title: Benedictory Verses for Shower of Blessings Guru Yoga
+      parent: Shower of Blessings
+    d8de7a73ef214b9a8e83e42dcbbe8b14:
+      title: Benedictory Verses for White Lotus
+      parent: White Lotus
+created_at: '2022-03-01T02:56:24.714803'
+last_modified_at: '2022-03-01T02:56:24.714809'
